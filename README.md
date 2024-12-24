@@ -1,7 +1,7 @@
 ## Intro
 Hi, I am Raahat Khurshid 👋
 <br>
-I am currently working as a Flutter developer at KashmEasy SoftLabs
+I am currently working as a Flutter developer at Flattr
 ## Skills 💻
 ![Flutter](https://img.shields.io/badge/flutter-%23f0f0f0.svg?style=for-the-badge&logo=flutter&logoColor=blue) 
 ![Dart](https://img.shields.io/badge/dart-%23f0f0f0.svg?style=for-the-badge&logo=dart&logoColor=%230175C2) 
